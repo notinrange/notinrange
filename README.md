@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notinrange
+- 👋 Hi, I’m Rahul Kumar
 - 👀 I’m interested in Machine Learning and Electronics Projects. 
 - 🌱 I’m currently learning about machine learning ,sensors and electrnics and commnication engineering.  
 - 💞️ I’m looking to collaborate on hackathons , cloud learning and some neural networks projects.
