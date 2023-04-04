@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Kumar
 - 👀 I’m interested in Machine Learning and Electronics Projects. 
-- 🌱 I’m currently learning about machine learning ,sensors and electrnics and commnication engineering.  
--  I’m looking to collaborate on hackathons , cloud learning and some neural networks projects.
+- 🌱 I’m currently learning about machine learning ,sensors and electronics and communication engineering.  
+-  I’m looking to data science projects and rearch internships.
 - 📫 you can reach me through my mail id rahulkumar007032002@gmail.com and my linked in https://www.linkedin.com/in/rahul-kumar-7534111ab/ .
 
 <!---
