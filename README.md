@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rahulkr54678274" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkr54678274?logo=twitter&style=for-the-badge" alt="rahulkr54678274" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, Redux Toolkit**
+- 🌱 I’m currently learning **SprinBoot and Angular**
 
-- 👯 I’m looking to collaborate on **LLMs related project**
+- 👯 I’m looking to collaborate on **LLMs related project** and building my side project which is secret
 
 - 💬 Ask me about **Data Science, Development, Cloud Services, Automation**
 
