@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahulkr54678274" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkr54678274?logo=twitter&style=for-the-badge" alt="rahulkr54678274" /></a> </p>
 
-- 🌱 I’m currently learning **SprinBoot and Angular**
+- 🌱 I’m currently learning **SpringBoot and Angular**
 
 - 👯 I’m looking to collaborate on **LLMs related project** and building my side project which is secret
 
