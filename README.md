@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate Full Stack developer from India having Knowledge of Data Science LLM also.</h3>
+<h3 align="center">a software engineer specializing in Full-stack development, AI/ML, Generative AI and LLMs. Currently, Software Developer at Accurate InfoSoft Pvt Ltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notinrange&label=Profile%20views&color=0e75b6&style=flat" alt="notinrange" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rahulkr54678274" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkr54678274?logo=twitter&style=for-the-badge" alt="rahulkr54678274" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot and Angular**
+- 🌱 I’m currently exploring **SpringBoot and Angular**
 
 - 👯 I’m looking to collaborate on **LLMs related project** and building my side project which is secret
 
