@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">Software Developer specializing in Full-stack development, AI/ML, Generative AI and LLMs. Currently, Backend Developer Intern at StudyPad Pvt Ltd</h3>
+<h3 align="center">Software Developer specializing in Full-stack development, AI/ML, Generative AI and LLMs. Currently, Software Engineer at StudyPad Pvt Ltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notinrange&label=Profile%20views&color=0e75b6&style=flat" alt="notinrange" /> </p>
 
