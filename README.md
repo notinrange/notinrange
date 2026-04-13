@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rahulkumarpodddar0703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZkMfcNTlzk9PXlF_x2LAEQdaT60LVG54/view?usp=drive_link](https://drive.google.com/file/d/1ZkMfcNTlzk9PXlF_x2LAEQdaT60LVG54/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1xLbBbYBIFKPFHGlWjImmeTV4RPvQJ5YK/view?usp=sharing)
 
 - ⚡ Fun fact **I think can do both Development and Data Science.**
 
@@ -62,14 +62,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- Kafka (fixed) -->
+  <!-- Kafka (white fix) -->
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg"
+         width="40" height="40"
+         style="filter: invert(1);"/>
   </a>
 
-  <!-- Mixpanel (fixed) -->
+  <!-- Mixpanel (white fix) -->
   <a href="https://mixpanel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mixpanel.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mixpanel.svg"
+         width="40" height="40"
+         style="filter: invert(1);"/>
   </a>
 </p>
 
